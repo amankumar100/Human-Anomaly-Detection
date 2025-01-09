@@ -47,9 +47,8 @@ This project focuses on **Human Anomaly Detection** in video surveillance footag
 
 ## Getting Started
 ### Prerequisites
-- Python 3.8 or above
-- TensorFlow 2.x
-- Keras
+- Python
+- TensorFlow
 - OpenCV
 - NumPy
 - Pandas
