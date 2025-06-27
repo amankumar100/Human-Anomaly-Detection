@@ -1,4 +1,4 @@
-# Human Anomaly Detection Using Multilevel Classification in 100% Crime Dataset with 3 different models(CNN, VGG16, AutoEncoders)
+# Human Anomaly Detection Using Multilevel Classification using UCF Crime Dataset with 3 different models(CNN, VGG16, AutoEncoders)
 
 ## Project Overview
 This project focuses on **Human Anomaly Detection** in video surveillance footage using advanced machine learning and deep learning techniques. Leveraging the **UCF Crime Dataset**, which comprises 14 distinct crime classes, the system is designed to detect and classify human anomalies in real-world scenarios effectively. The project's primary goal is to improve the accuracy and reliability of surveillance systems for detecting criminal activities.
